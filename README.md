@@ -1,0 +1,2 @@
+# demoo
+thuc hanh 
